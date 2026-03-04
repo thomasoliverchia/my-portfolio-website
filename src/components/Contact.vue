@@ -108,7 +108,7 @@
 	}
 
 
-	const SITE_KEY = '6LdefX8sAAAAAE1R-GAXP80xcnl8o9ZtQc6dOY3I';  
+	const SITE_KEY = '6Ld-EYAsAAAAALCc7mWidenyOZ-da_9wBTarneft';  
 
 	const recaptchaContainer = ref(null);
 	const recaptchaWidgetId = ref(null);
